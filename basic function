@@ -1,0 +1,16 @@
+def my():
+    print("hello")
+    print("world")
+    print("basic")
+    print("python program")
+
+    
+my()
+
+
+o/p
+
+hello
+world
+basic
+python program
