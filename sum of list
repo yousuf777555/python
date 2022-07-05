@@ -1,0 +1,11 @@
+n = [1,2,3,4,5]
+sum = 0
+for a in n:
+    sum=sum+a
+
+    
+print("sum of list is",sum)
+
+o/p
+
+sum of list is 15
