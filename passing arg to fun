@@ -1,0 +1,9 @@
+
+def my(name):
+    print(name)
+
+    
+my("mohd")
+mohd
+my("yousuf")
+yousuf
