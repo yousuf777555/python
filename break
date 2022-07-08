@@ -1,0 +1,5 @@
+for a in "thundersoft":
+    if a == "d":
+        break
+    print(a)
+    
