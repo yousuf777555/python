@@ -1,0 +1,9 @@
+n = ['monday', 'Tuesday', 'wednesday', 'thursday', 'friday', 'saturday'] 
+
+for i in range(len(n)):
+    print(n[i])
+    if n[i] == 'friday':
+        print('friday is there in the list')
+        break
+    else:
+      continue
